@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class C03_SeleniumPractice {
+public class Test03 {
     /* ...Exercise3...
     go to url : https://www.techlistic.com/p/selenium-practice-form.html
     fill the firstname

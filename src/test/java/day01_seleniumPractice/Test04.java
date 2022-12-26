@@ -1,7 +1,6 @@
 package day01_seleniumPractice;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
@@ -14,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 
 
-public class C04_SeleniumPractice {
+public class Test04 {
     /*..........Exercise1............
     BeforeClass ile driver'i olusturun ve class icinde static yapin
     Maximize edin ve 10 sn bekletin

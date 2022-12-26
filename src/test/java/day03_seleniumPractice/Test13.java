@@ -3,7 +3,6 @@ package day03_seleniumPractice;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;
 import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -12,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class Test05 {
+public class Test13 {
     /*
     Gerekli yapiyi olusturun ve aşağıdaki görevi tamamlayın.
     a. Verilen web sayfasına gidin.

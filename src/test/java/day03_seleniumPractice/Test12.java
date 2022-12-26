@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class Test04 {
+public class Test12 {
     //Gerekli yapiyi olusturun ve aşağıdaki görevi tamamlayın.
     //  a. Verilen web sayfasına gidin.
     //  https://the-internet.herokuapp.com/checkboxes

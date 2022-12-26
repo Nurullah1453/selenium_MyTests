@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class Test03 {
+public class Test07 {
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'

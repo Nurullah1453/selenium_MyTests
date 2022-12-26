@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class C01_SeleniumPractice {
+public class Test01 {
     /*...Exercise1...
     Create chrome driver
     Maximize the window

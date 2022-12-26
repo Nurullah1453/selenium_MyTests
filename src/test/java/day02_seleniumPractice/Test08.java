@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class Test04 {
+public class Test08 {
     // 3 ayri test method'u olusturun
     // 1.method'da amazon'a gidip, amazona gittigimizi test edin
     // 2.method'da amazon'da nutella aratip, sonuclarin nutella icerdigini test edin

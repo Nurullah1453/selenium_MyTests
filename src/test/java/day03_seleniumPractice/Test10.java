@@ -12,9 +12,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
-import java.util.Arrays;
 
-public class Test02 {
+public class Test10 {
     // 1.method'da amazon'a gidip, amazona gittigimizi test edin
     // 2.method'da amazon'da nutella aratip, sonuclarin nutella icerdigini test edin
     // 3.method'da nutella arama sonuc sayisinin 50'den fazla oldugunu test edin

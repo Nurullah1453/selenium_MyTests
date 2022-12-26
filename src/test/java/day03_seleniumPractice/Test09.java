@@ -1,13 +1,8 @@
 package day03_seleniumPractice;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.*;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 
-import java.time.Duration;
-
-public class Test01 {
+public class Test09 {
     int p1=60;
     int p2=66;
     int p3=70;

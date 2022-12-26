@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class Test06 {
+public class Test14 {
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'
@@ -63,6 +63,7 @@ public class Test06 {
         String actualKelime= driver.getCurrentUrl();
         String expectedKelime="product_details";
         Assert.assertTrue(actualKelime.contains(expectedKelime));
+
 
         //9. Verify that detail detail is visible: product name, category, price, availability, condition, brand
         WebElement productName= driver.findElement(By.xpath("//h2[text()='Blue Top']"));

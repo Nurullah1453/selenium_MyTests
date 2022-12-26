@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class Test03 {
+public class Test11 {
     //https://www.bestbuy.com/ Adresine gidin farkli test method’lari olusturarak
     //asagidaki testleri yapin
     //○ Sayfa URL’inin https://www.bestbuy.com/ ‘a esit oldugunu test edin
