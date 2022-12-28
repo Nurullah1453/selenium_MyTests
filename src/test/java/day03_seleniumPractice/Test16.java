@@ -81,7 +81,7 @@ public class Test16 {
         name.sendKeys("Nurullah");
         WebElement mail= driver.findElement(By.xpath("//input[@data-qa='signup-email']"));
         mail.click();
-        mail.sendKeys("test16@gmail.com");
+        mail.sendKeys("test12321312316@gmail.com");
         driver.findElement(By.xpath("//button[@data-qa='signup-button']")).click();
 
         //10. Verify 'ACCOUNT CREATED!' and click 'Continue' button
